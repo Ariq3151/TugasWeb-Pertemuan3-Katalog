@@ -22,10 +22,10 @@ Website katalog produk responsif yang dibuat menggunakan **Bootstrap 5**.
 ![Mobile](Screenshot_TR3_Mobile.png)
 
 ### Tablet - 768px
-![Tablet](screenshots/tablet.png)
+![Tablet](Screenshot_TR3_Tablet.png)
 
 ### Desktop - 1200px
-![Desktop](screenshots/desktop.png)
+![Desktop](Screenshot_TR3_Dekstop.png)
 
 ## Repository
 **TugasWeb-Pertemuan3-Katalog**
